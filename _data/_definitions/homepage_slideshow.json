@@ -1,5 +1,11 @@
 {
   "name": {}, 
   "image": {"type":"image", "required": true },
+   "long_desc":
+    {
+      "required": true,  
+      "type": "richtext",
+      "label": "Detail Desc"
+    },
   "linktype": {"label":"Link Type","type":"select","options":["Book Now","Join Today","Read More","Image"],"required": true}  
 }

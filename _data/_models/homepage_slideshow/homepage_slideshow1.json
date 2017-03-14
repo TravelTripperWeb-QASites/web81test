@@ -1,7 +1,8 @@
 {
-	"name": "test",
+	"name": "testing pdf file",
 	"image": {
 		"url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_426_485/media/2017-03-01-021739/Background-396-X-396_16790.jpg"
 	},
-	"linktype": "Book Now"
+	"linktype": "Book Now",
+	"long_desc": "<p><a href=\"https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_426_485/media/2017-03-06-011619/pdf.pdf\"><img src=\"/assets/pdf_icon.png\" /></a></p>"
 }

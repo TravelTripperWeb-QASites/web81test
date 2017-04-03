@@ -1,7 +1,8 @@
 {
-	"name": "test",
+	"name": "testing pdf file",
 	"image": {
 		"url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_426_485/media/2017-03-01-021739/Background-396-X-396_16790.jpg"
 	},
-	"linktype": "Book Now"
+	"linktype": "Book Now",
+	"long_desc": "<p><a href=\"https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_426_485/media/2017-03-06-011619/pdf.pdf\"><img src=\"/assets/pdf_icon.png\" /></a></p>\n<p><img id=\"1489650078206\" class=\"testclass342 dfdfs\" title=\"23434\" src=\"https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_426_485/media/2017-03-01-021739/Background-396-X-396_16790.jpg\" alt=\"23434\" width=\"45\" height=\"45\" /></p>\n<p><img id=\"1489650470639\" class=\" tretetrtrtrtrtrt\" title=\"123fdfdfdfdfdf\" src=\"https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_426_485/media/2017-03-01-021739/Background-396-X-396_16790.jpg\" alt=\"123fdfdfdfdfdf\" width=\"55\" height=\"55\" /></p>"
 }
